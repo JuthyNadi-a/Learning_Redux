@@ -1,0 +1,12 @@
+.buttonClass {
+    background-color: rgb(162, 157, 157);
+    border: none;
+    border-radius: 3px;
+    margin-right: 2vw;
+    height: 4vh;
+    width: 10vw;
+    font-family: inherit;
+    font-weight: 800;
+    box-shadow: 2px 2px gray;
+    margin-bottom: 2vh;
+}
